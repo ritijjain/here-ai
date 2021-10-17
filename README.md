@@ -12,4 +12,4 @@ Use the `python run.py attendance_session <pickle_file_name>` to start an attend
 You can test out the scripts yourself by 
 1. Downloading the files
 2. Installing dependencies provided in `requirements.txt` using Pipenv or otherwise.
-3. Register faces to a pickle file and then start an attendance session using the same pickle file. Refer to the [usage section](pipenv) for more details.
+3. Register faces to a pickle file and then start an attendance session using the same pickle file. Refer to the [usage section](#usage) for more details.
